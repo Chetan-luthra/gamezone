@@ -1,0 +1,24 @@
+body{
+    background: #FF4E50;  /* fallback for old browsers */
+    background: -webkit-linear-gradient(to right, #F9D423, #FF4E50);  /* Chrome 10-25, Safari 5.1-6 */
+    background: linear-gradient(to right, #F9D423, #FF4E50); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+    color: #ffecb3 !important;
+}
+h3{
+    font-size: 50px !important;
+    text-align: center !important;
+    font-family: 'Lato', sans-serif !important;
+    padding: 25px;
+
+}
+p{
+    font-size: 25px !important;
+    font-family: 'Lato', sans-serif !important;
+    padding: 5px 20px 0 20px !important;    
+}
+.btn-primary{
+    color: #fff !important;
+    background-color: #ff9966 !important;
+    border-color: #ff9966 !important;
+    margin: 30px;
+}
